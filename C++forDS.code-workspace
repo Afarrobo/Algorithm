@@ -1,0 +1,24 @@
+{
+  "folders": [
+	{
+		"path": "C:/C++forDS"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../newpractice"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "typeindex": "cpp",
+      "typeinfo": "cpp",
+      "*.tcc": "cpp",
+      "mutex": "cpp",
+      "thread": "cpp",
+      "variant": "cpp"
+    }
+  }
+}
